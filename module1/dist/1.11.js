@@ -1,7 +1,7 @@
 "use strict";
 {
     // ternary operator || optional chaining || nullish coalescing
-    const age = 15;
+    const age = 22;
     if (age >= 18) {
         console.log("Adult");
     }

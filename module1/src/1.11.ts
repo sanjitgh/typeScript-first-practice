@@ -1,7 +1,7 @@
 {
     // ternary operator || optional chaining || nullish coalescing
 
-    const age: number = 15;
+    const age: number = 22;
 
     if (age >= 18) {
         console.log("Adult");
