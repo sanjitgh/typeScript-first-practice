@@ -17,6 +17,7 @@
     };
     const result1 = kgToGm(1000);
     const result2 = kgToGm('200');
+    console.log(result1);
     //
     //
 }
